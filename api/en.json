@@ -1,0 +1,5 @@
+{
+  "product-published-mail.subject": "Products published",
+  "productPublishedMail.salutation": "Hello {recipientName}",
+  "productPublishedMail.text": "{numberOfProductsPublished, select, all {All products} 1 {A product has} other {{numberOfProductsPublished} products have}} been published."
+}
