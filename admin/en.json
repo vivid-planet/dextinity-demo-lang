@@ -133,6 +133,7 @@
   "mail.buttonBlock.variant.filled": "Filled",
   "mail.buttonBlock.variant.outlined": "Outlined",
   "mail.dividerBlock.displayName": "Divider",
+  "mail.imageBlock.aspectRatio": "Aspect ratio",
   "mail.imageBlock.displayName": "Image",
   "mail.imageBlock.fullWidth": "Full width",
   "mail.imageBlock.image": "Image",
