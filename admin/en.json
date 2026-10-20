@@ -450,6 +450,8 @@
   "standaloneRichText.textAlignment.right": "right",
   "tableBlock.displayName": "Table",
   "tableBlock.responsiveBehavior": "Responsive Behavior",
+  "tableBlock.responsiveBehavior.listByColumn": "List by Column (First Column as Headings)",
+  "tableBlock.responsiveBehavior.listByRow": "List by Row (First Row as Headings)",
   "tableBlock.responsiveBehavior.none": "None",
   "tableBlock.responsiveBehavior.scrollSideways": "Scroll Sideways",
   "targetGroup.fields.branch": "Branch",
