@@ -152,6 +152,8 @@
   "mail.tipTapRichText.textBlockStyle.header": "Header",
   "mail.tipTapRichText.textBlockStyle.small": "Small",
   "mail.tipTapRichText.textBlockStyle.title": "Title",
+  "mail.twoColumnsBlock.displayName": "Two columns",
+  "mail.twoColumnsBlock.layout.sameWidth": "Same width",
   "mail.twoListSizesRichText.blockType.copy": "Copy (Default)",
   "mail.twoListSizesRichText.blockType.copySmall": "Copy (Small)",
   "mail.twoListSizesRichText.blockType.orderedList": "Ordered List (Default)",
