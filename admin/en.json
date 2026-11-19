@@ -8,6 +8,7 @@
   "accordionBlock.itemsName": "accordion items",
   "accordionItem.headline": "Headline {level}",
   "accordionItem.titleHtmlTag": "Title HTML tag",
+  "adminLanguageSwitch.label": "Admin language",
   "basicStageBlock.alignment": "Alignment",
   "basicStageBlock.alignment.center": "center",
   "basicStageBlock.alignment.left": "left",
